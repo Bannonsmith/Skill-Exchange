@@ -6,6 +6,10 @@
 
 **Features:** node.JS, mustache-express, HTML, CSS, Bootstrap, sequelize, express, express-sessions, elephantSQL, heroku
 
+**Live Link:** https://skills-exchange.herokuapp.com/
+
 **Project Contributors:** Ashley Mello, Bannon Smith, Lina Jimenez
 
-**Live Link:** https://skills-exchange.herokuapp.com/
+**Login:** 
+![](SE-Registration.gif) 
+
