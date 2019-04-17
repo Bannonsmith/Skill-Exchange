@@ -10,7 +10,5 @@
 
 **Project Contributors:** Ashley Mello, Bannon Smith, Lina Jimenez
 
-**Media:**
-
 ![](SE.gif) 
 
