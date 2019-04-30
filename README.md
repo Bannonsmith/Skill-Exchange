@@ -16,3 +16,7 @@
 We made sure to encrypt User passwords in our Database using bcrypt:
 
 ![](encryptedpw.png)
+
+Our team thought it would be a good idea to take advantage of express routes in order to keep our code organized. Here's a section of some of the get/post requests:
+
+![](routes.png)
