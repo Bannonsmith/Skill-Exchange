@@ -13,3 +13,6 @@
 
 ![](SE.gif) 
 
+We made sure to encrypt User passwords in our Database using bcrypt:
+
+![](encryptedpw.png)
